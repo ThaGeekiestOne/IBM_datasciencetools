@@ -45,13 +45,5 @@ This repository contains a JupyterLite notebook exploring Data Science tools, la
 
 🖊 Author
 
-Author: [Your Full Name]
-📢 License
-
-This project is open-source and available under the MIT License.
-🔗 Links:
-
-    View the Notebook on GitHub (link to your notebook file)
-
-    JupyterLite Demo
+Author: Ayush Singh
 
